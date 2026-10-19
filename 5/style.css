@@ -1,0 +1,13 @@
+table, tr, th {
+    border: 1px solid grey;
+    width: 1000px;
+}
+
+img {
+    height: 150px;
+    align-content: center;
+}
+
+ul {
+    text-align: left;
+}
